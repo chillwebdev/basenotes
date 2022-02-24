@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 /*Gotta have a reset ;)*/
 
@@ -20,7 +20,7 @@ html {
 body {
   width: 100%;
   height: 100%;
-  background: #efebf0;
+  background: #ffffff;
   color: #3f5761;
   font-family: 'Open Sans', sans-serif;
 
@@ -29,5 +29,5 @@ header {
   padding: 2.5em;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Bubblegum Sans', Arial, sans-serif;
+	font-weight: bold;
 }
